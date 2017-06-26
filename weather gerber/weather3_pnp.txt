@@ -1,0 +1,22 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=weather3
+*Date=18:34:19
+*CreatedBy=Fritzing 0.9.0b.06.11.da4e
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;34.692;-29.5132;0;Bottom;TXT1
+2;;THT;38.5255;-6.28557;-90;Bottom;DHT22
+3;4.7k;THT;55.0355;-6.28557;180;Bottom;R1
+4;;THT;24.5555;-6.28557;-90;Bottom;toPI
+5;;;55.0119;-21.8508;0;Bottom;TXT2
+6;;;40.995;-14.3054;0;Bottom;TXT4
+7;;;26.931;-21.838;0;Bottom;TXT3
